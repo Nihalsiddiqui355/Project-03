@@ -3,7 +3,7 @@
 
 - By Nihal Siddiqui
 
-> live priview [Link](https://lawofcss.netlify.app/)
+> live priview [Link](https://fullstack-js-project-03.netlify.app/)
 
 > Project Preview
 
